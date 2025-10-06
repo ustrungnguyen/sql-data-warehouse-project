@@ -1,2 +1,2 @@
 # sql-data-warehouse-project
-Build a data warehouse!
+Repository for a Data Warehouse SQL project
